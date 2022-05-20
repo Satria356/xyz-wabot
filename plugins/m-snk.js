@@ -25,7 +25,7 @@ Syarat Ketentuan Bot
 4. BOT akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
 5. BOT bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 
--Irwan
+© R E A L
 
 Peraturan: 4 November 2021`
     conn.sendTBL(m.chat, teks, wm, await(await fetch(fla+ "Peraturan")).buffer(), "Donasi", swr, null, null, null, null, null, null, null, null, m)

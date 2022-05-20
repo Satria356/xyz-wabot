@@ -18,13 +18,13 @@ let handler = async (m, {
 ┃ *〲 ✅Limit UNLIMITED (Tidak Terbatas)
 ┃ 
 ┃ Ayo gabung bersama mereka yang sudah Premium dan mendapatkan banyak keuntungan dengan akses semua fitur bot.
-┃  © XsvsH
+┃  © R E A L
 ┃ *─★‧ﾟ
 ╰━━━━━━━━⸙
 Pembayaran:
-Saweria: https://saweria.co/dobdabot (+5.000)
-Dana: 08882611841
-OVO: 08882611841
+Gopay: 083168004413
+Dana: 083811034750
+PULSA: 083811034750
   
 「Syarat dan Ketentuan」
 1. Bot akan keluar jika sudah waktu nya keluar

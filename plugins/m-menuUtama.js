@@ -31,10 +31,9 @@ let moment = require('moment-timezone')
 //====================BATAS NGAB=================
 const defaultMenu = {
   before: `ุุุุุุุุุุุุุ╭━━•✵ ⃟  ⃟  ⃟✵•━━━━━━━━━━━━━╮ุุุุุุุุุุุุุุุ
-┃ Hallo Kak %name
+┃ Hallo🍟 Kak %name
 ┃ %ucapan Have a Great Day
-┃ Donasi Seikhlasnya, Buat Bayar Wi-Fi
-┃ https://saweria.co/irwanxyans
+┃ I M : © *R E A L - M D*
 ╰━━━━━━━━━━━━━━━━━━━━╯
 %readmore`.trimStart(),
   header: '╭━━━━━━━━━━━━┈ ❋۪۪⸙\n│ ---%category\n╰┬────────────┈ ⳹\n╭┤',
@@ -218,8 +217,8 @@ let handler = async (m, {
 Tanggal Islam: ${dateIslamic}
 Time: ${waktuwib}
 
-© irwan_x_yans
-https://github.com/irwanx/xyz-wabot
+© Fahri
+https://github.com/Satria356
 Aktif Selama: ${uptime}`*/
       let tulisan = `
 ${ucapan()} ${name}. Have a great day！

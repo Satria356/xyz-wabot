@@ -2,7 +2,7 @@ let handler = async (m) => {
 m.reply(`
 Bot ini Menggunakan Script Dari
 
-https://github.com/irwanx/xyz-wabot`)
+https://nekopoi.care`)
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']
