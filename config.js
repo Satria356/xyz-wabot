@@ -6,8 +6,8 @@ global.moment = require('moment-timezone')
 global.axios = require('axios')
 global.scrape = require('./lib/scrape')
 global.cheerio = require('cheerio')
-global.owner = ['628882611841', '15879075033', '6287833362646', '6285892766102', '6283172366463', '62882008369956', '6281319944687','6289638023602'] // Put your number here
-global.mods = ['62882008369956','6289638023602'] // Want some help?
+global.owner = ['6283811034750', '6283811034750', '6283811034750', '6283811034750', '6283811034750', '6283811034750', '6283811034750','6283811034750'] // Put your number here
+global.mods = ['6283811034750','6283811034750'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.DeveloperMode = 'false'
 global.APIs = { // API Prefix
@@ -35,17 +35,17 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = ':)'
-global.author = 'Xyz-Wabot'
-global.packnamee = 'P'
+global.author = '© R E A L - B O T'
+global.packnamee = '© R E A L - M D'
 
-global.gcex = "https://chat.whatsapp.com/L508viIjjPwHpYEqgTxqj6"
-global.fotoex = "https://telegra.ph/file/5f6d986c0b87dc6a0d78b.jpg"
+global.gcex = "https://chat.whatsapp.com/G0QgvIganFuIZWG5GBkQBv"
+global.fotoex = "https://telegra.ph/file/a6ee1bedfb4cde1dded1a.jpg"
 
 //donasi
 global.swr = "https://saweria.co/dobdabot"
-global.dana = "0888-2611-841"
-global.ovo = "0888-2611-841"
-global.pulsa = "0896-3802-3602"
+global.dana = "083811034750"
+global.ovo = "083168004413"
+global.pulsa = "083811034750"
 
 global.multiplier = 69 // The higher, The harder levelup
 
